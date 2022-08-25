@@ -1,0 +1,23 @@
+LAB CYCLE 1
+1. Program to Print all non-Prime Numbers in an Interval
+2. Program to print the first N Fibonacci numbers.
+3. Given sides of a triangle, write a program to check whether given triangle is an
+isosceles, equilateral or scalene.
+4. Program to check whether given pair of number is coprime
+5. Program to find the roots of a quadratic equation(rounded to 2 decimal places)
+6. Program to check whether a given number is perfect number or not(sum of factors
+=number)
+7. Program to display amstrong numbers upto 1000
+8. Store and display the days of a week as a List, Tuple, Dictionary, Set. Also
+demonstrate different ways to store values in each of them. Display its type also.
+9. Write a program to add elements of given 2 lists
+10. Write a program to find the sum of 2 matrices using nested List.
+11. Write a program to perform bubble sort on a given set of elements.
+12. Program to find the count of each vowel in a string(use dictionary)
+13. Write a Python program that accept a positive number and subtract from this
+number the sum of its digits and so on. Continues this operation until the number is
+positive(eg: 256-&gt;2+5+6=13
+256-13=243
+243-9=232……..
+14. Write a Python program that accepts a 10 digit mobile number, and find the digits
+which are absent in a given mobile number
